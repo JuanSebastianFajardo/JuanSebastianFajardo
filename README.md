@@ -1,10 +1,7 @@
+# 👋 Hola soy Juan Sebastián Fajardo Sumalabe 👨🏻‍💻
 
-👋 Hola soy Juan Sebastian Fajardo Sumalabe 👨🏻‍💻
+Aprendiz Sena, estudiante de análisis y desarrollo de software. Técnico en sistemas teleinformáticos.
 
-Aprendiz Sena, estudiante de analisis y desarrollo de software.
-Tecnico en sistemas teleinformaticos.
+## Sobre mi
 
-Sobre mi
-
-
-Tengo 20 años, vivo en la ciudad Bucaramnaga.
+Tengo 20 años, vivo en la ciudad Bucaramanga.
